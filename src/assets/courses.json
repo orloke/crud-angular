@@ -1,4 +1,4 @@
 [
   { "_id": "primeiro", "name": "Angular", "category": "Front End" },
-  { "_id": "2", "name": "React", "category": "Front End" }
+  { "_id": "2", "name": "React", "category": "Back End" }
 ]
